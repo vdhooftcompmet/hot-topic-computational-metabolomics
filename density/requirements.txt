@@ -1,0 +1,7 @@
+gensim
+numpy
+pandas
+matplotlib
+spec2vec
+seaborn
+tqdm
