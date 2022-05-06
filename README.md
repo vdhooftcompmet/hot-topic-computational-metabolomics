@@ -7,4 +7,6 @@ This repository contains the code for the recreating figures from our Hot Topic 
 ## Index
 - [Clamshell plots](./clamshell)
 - [Density plot](./density)
-- [Benchmarking_test_sets](./figure_4_benchmarking_test_sets)
+- [Benchmarking plots](./benchmarking)
+- [Treemap](./figure_additional_treemap/) (additional plot; not in paper)
+- [All processed data to create plots with](figures_data)
